@@ -27,5 +27,5 @@ def get_text_from_any_pdf(pdf_file):
         # print(text)
 
     return final_text
-path_to_pdf = '1.pdf'
+path_to_pdf = '10.pdf'
 print(get_text_from_any_pdf(path_to_pdf))
