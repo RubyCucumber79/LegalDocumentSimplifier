@@ -1,5 +1,5 @@
 <h2><u>LEGAL DOCUMENT SIMPLIFICATION AND SUMMARIZATION - RESEARCH</h2></u>
 
-<h4>References and tools for the project:</h4>
+<h4><u>References and tools for the project:</u></h4>
   
 
